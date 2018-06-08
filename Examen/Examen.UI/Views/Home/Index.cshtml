@@ -1,0 +1,66 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<p></p>
+<div class="row">
+    <form class="form-horizontal">
+        <div class="form-group">
+            <label class="control-label col-sm-2" for="txtNombre">Nombre:</label>
+            <div class="col-sm-10">
+                <input type="text" class="form-control" id="txtNombre" required name="Nombre">
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="control-label col-sm-2" for="txtApellidoPaterno">Apellido Paterno:</label>
+            <div class="col-sm-10">
+                <input type="text" class="form-control" id="txtApellidoPaterno" required name="Paterno">
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="control-label col-sm-2" for="txtApellidoMaterno">Apellido Materno:</label>
+            <div class="col-sm-10">
+                <input type="text" class="form-control" id="txtApellidoMaterno" required name="Materno">
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="control-label col-sm-2" for="txtApellidoMaterno">Teléfono:</label>
+            <div class="col-sm-10">
+                <input type="text" class="form-control" id="txtTelefono" required name="Telefono">
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="control-label col-sm-2" for="txtApellidoMaterno">Email:</label>
+            <div class="col-sm-10">
+                <input type="text" class="form-control" id="txtEmail" required name="Email">
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-sm-offset-2 col-sm-10">
+                <button type="button" class="btn btn-default" id="btnGuardar">Guardar</button>
+            </div>
+        </div>
+    </form>
+    <br />
+    <table class="table table-bordered" id="tblCliente">
+        <thead>
+            <tr>
+                <th>ClienteId</th>
+                <th>Nombre</th>
+                <th>Apellido Paterno</th>
+                <th>Apellido Materno</th>
+                <th>Teléfono</th>
+                <th>Email</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+</div>
+
+<script>
+    $(document).ready(function () {
+        Examen.Init();
+    });
+</script>

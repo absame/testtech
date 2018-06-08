@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examen.UI", "Examen.UI\Examen.UI.csproj", "{667CC54A-DEFB-415D-B93D-635B02272310}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E85D483D-4D03-472E-BB73-18366373EBA0} = {E85D483D-4D03-472E-BB73-18366373EBA0}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examen.WCF", "Examen.WCF\Examen.WCF.csproj", "{E85D483D-4D03-472E-BB73-18366373EBA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{667CC54A-DEFB-415D-B93D-635B02272310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{667CC54A-DEFB-415D-B93D-635B02272310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{667CC54A-DEFB-415D-B93D-635B02272310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{667CC54A-DEFB-415D-B93D-635B02272310}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E85D483D-4D03-472E-BB73-18366373EBA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E85D483D-4D03-472E-BB73-18366373EBA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E85D483D-4D03-472E-BB73-18366373EBA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E85D483D-4D03-472E-BB73-18366373EBA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

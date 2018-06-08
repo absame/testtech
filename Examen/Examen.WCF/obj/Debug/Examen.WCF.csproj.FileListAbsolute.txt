@@ -1,0 +1,11 @@
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.WCF\bin\Examen.WCF.dll.config
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.WCF\bin\Examen.WCF.dll
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.WCF\bin\Examen.WCF.pdb
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.WCF\obj\Debug\Examen.WCF.csprojResolveAssemblyReference.cache
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.WCF\obj\Debug\Examen.WCF.dll
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.WCF\obj\Debug\Examen.WCF.pdb
+C:\abs\test\Examen\Examen.WCF\bin\Examen.WCF.dll
+C:\abs\test\Examen\Examen.WCF\bin\Examen.WCF.pdb
+C:\abs\test\Examen\Examen.WCF\obj\Debug\Examen.WCF.csprojResolveAssemblyReference.cache
+C:\abs\test\Examen\Examen.WCF\obj\Debug\Examen.WCF.dll
+C:\abs\test\Examen\Examen.WCF\obj\Debug\Examen.WCF.pdb

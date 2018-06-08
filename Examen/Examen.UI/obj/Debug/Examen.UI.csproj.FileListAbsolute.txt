@@ -1,0 +1,103 @@
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\Examen.UI.dll.config
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\Examen.UI.dll
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\Examen.UI.pdb
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\Antlr3.Runtime.dll
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\EntityFramework.dll
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\Microsoft.Owin.dll
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\Microsoft.Owin.Security.dll
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\Microsoft.Owin.Security.Google.dll
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\Microsoft.Web.Infrastructure.dll
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\Newtonsoft.Json.dll
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\Owin.dll
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\System.Web.Helpers.dll
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\System.Web.Mvc.dll
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\System.Web.Optimization.dll
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\System.Web.Razor.dll
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\System.Web.WebPages.Deployment.dll
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\System.Web.WebPages.dll
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\System.Web.WebPages.Razor.dll
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\WebGrease.dll
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\System.Web.Helpers.xml
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\System.Web.Mvc.xml
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\System.Web.Optimization.xml
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\System.Web.Razor.xml
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\System.Web.WebPages.xml
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\System.Web.WebPages.Deployment.xml
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\System.Web.WebPages.Razor.xml
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\Antlr3.Runtime.pdb
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\Newtonsoft.Json.xml
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\EntityFramework.xml
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\Microsoft.Owin.xml
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\Microsoft.Owin.Security.xml
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\Microsoft.Owin.Security.Google.xml
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\obj\Debug\Examen.UI.csprojResolveAssemblyReference.cache
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\obj\Debug\Examen.UI.dll
+c:\users\h1more\documents\visual studio 2013\Projects\Examen\Examen.UI\obj\Debug\Examen.UI.pdb
+C:\abs\test\Examen\Examen.UI\bin\Examen.UI.dll
+C:\abs\test\Examen\Examen.UI\bin\Examen.UI.pdb
+C:\abs\test\Examen\Examen.UI\bin\Antlr3.Runtime.dll
+C:\abs\test\Examen\Examen.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\abs\test\Examen\Examen.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\abs\test\Examen\Examen.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\abs\test\Examen\Examen.UI\bin\Microsoft.Owin.dll
+C:\abs\test\Examen\Examen.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\abs\test\Examen\Examen.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\abs\test\Examen\Examen.UI\bin\Microsoft.Owin.Security.dll
+C:\abs\test\Examen\Examen.UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\abs\test\Examen\Examen.UI\bin\Microsoft.Owin.Security.Google.dll
+C:\abs\test\Examen\Examen.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\abs\test\Examen\Examen.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\abs\test\Examen\Examen.UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\abs\test\Examen\Examen.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\abs\test\Examen\Examen.UI\bin\Newtonsoft.Json.dll
+C:\abs\test\Examen\Examen.UI\bin\Owin.dll
+C:\abs\test\Examen\Examen.UI\bin\System.Web.Helpers.dll
+C:\abs\test\Examen\Examen.UI\bin\System.Web.Mvc.dll
+C:\abs\test\Examen\Examen.UI\bin\System.Web.Optimization.dll
+C:\abs\test\Examen\Examen.UI\bin\System.Web.Razor.dll
+C:\abs\test\Examen\Examen.UI\bin\System.Web.WebPages.Deployment.dll
+C:\abs\test\Examen\Examen.UI\bin\System.Web.WebPages.dll
+C:\abs\test\Examen\Examen.UI\bin\System.Web.WebPages.Razor.dll
+C:\abs\test\Examen\Examen.UI\bin\WebGrease.dll
+C:\abs\test\Examen\Examen.UI\bin\System.Web.Helpers.xml
+C:\abs\test\Examen\Examen.UI\bin\System.Web.Mvc.xml
+C:\abs\test\Examen\Examen.UI\bin\System.Web.Optimization.xml
+C:\abs\test\Examen\Examen.UI\bin\System.Web.Razor.xml
+C:\abs\test\Examen\Examen.UI\bin\System.Web.WebPages.xml
+C:\abs\test\Examen\Examen.UI\bin\System.Web.WebPages.Deployment.xml
+C:\abs\test\Examen\Examen.UI\bin\System.Web.WebPages.Razor.xml
+C:\abs\test\Examen\Examen.UI\bin\Antlr3.Runtime.pdb
+C:\abs\test\Examen\Examen.UI\bin\Newtonsoft.Json.xml
+C:\abs\test\Examen\Examen.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\abs\test\Examen\Examen.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\abs\test\Examen\Examen.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\abs\test\Examen\Examen.UI\bin\Microsoft.Owin.xml
+C:\abs\test\Examen\Examen.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\abs\test\Examen\Examen.UI\bin\Microsoft.Owin.Security.xml
+C:\abs\test\Examen\Examen.UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\abs\test\Examen\Examen.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\abs\test\Examen\Examen.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\abs\test\Examen\Examen.UI\bin\Microsoft.Owin.Security.Google.xml
+C:\abs\test\Examen\Examen.UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\abs\test\Examen\Examen.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\abs\test\Examen\Examen.UI\obj\Debug\Examen.UI.csprojResolveAssemblyReference.cache
+C:\abs\test\Examen\Examen.UI\obj\Debug\Examen.UI.dll
+C:\abs\test\Examen\Examen.UI\obj\Debug\Examen.UI.pdb
